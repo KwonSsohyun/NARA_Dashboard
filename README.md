@@ -1,9 +1,11 @@
-# Spring Boot Web JSP : Bootstrap
-Spring Boot MVC 패턴에 부트스트랩 템플릿(Bootstrap template) 적용
+<img src="https://github.com/KwonSsohyun/NARA_Dashboard/assets/90014589/fb0e2ebc-40b1-416d-8a39-e6d642d6b794" width="300"/>
 <br/><br/>
 
 ## 🖥️ 프로젝트 소개
-**그룹웨어 대시보드 템플릿**
+**나라신용정보 - 통합정보시스템 리뉴얼 구축 프로젝트**
+<br>
+> **🌐 배포 URL**   
+> [http://localhost:8080](http://localhost:8080)
 
 <br/>
 
